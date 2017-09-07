@@ -1,5 +1,6 @@
 # Movie Trailers Udacity Nanodegree
-## by Surya Halim
+
+by Surya Halim
 
 ## About the Program
 
@@ -13,9 +14,12 @@ Standard Python Library (2.x or 3.x) is required for the project
 
 For submission purposes :
 
-* entertainment_center.py - main Python script to run
-* media.py - contains the class Movie that stores movie details
-* fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
+* entertainment_center.py - main Python script to run and generate HTML
+* media.py - 
+* fresh_tomatoes.py -  Udacity skeleton code to create fresh_tomatocontains the class Movie that stores movie detailses.html file for the website 
+* fresh_tomatoes.html - in case the python file doesn't work, use the html to preview it
+* .pycs files (compiled python version)
+
 
 ## Running the project
 
@@ -24,5 +28,9 @@ Run the following command on your terminal :
 ```bash
 python entertainment_center.py
 ```
+
+or
+
+simply open the HTML file
 
 The Website should be running on your default browser 
